@@ -9,6 +9,5 @@
   * [Haus](/charaktererstellung/haus.md)
   * [Zauberstab](/charaktererstellung/zauberstab.md)
   * [Patronus](/charaktererstellung/patronus.md)
-  * [Attribute](/charaktererstellung/haus.md)
 
 
