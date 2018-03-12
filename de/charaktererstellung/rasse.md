@@ -1,6 +1,9 @@
 # Rasse
 
-## Mensch
+## Zauberer oder Hexe
+
+Menschen finden sich in allmöglichen Größen und Formen, und sind im Hinblick auf ihr Aussehen eine der variablsten Geschöpfe überhaupt. Außerdem sind sie eine der intelligentesten Spezies der Welt. Menschen besitzen einen außergewöhnlichen Tatendrang. Neugier und Ehrgeiz triumphieren nicht selten über die Neigung zu einem sesshaften Leben.
+
   * `+1` Vitalität
 
 

@@ -35,4 +35,6 @@ Dieses Werk basiert auf eine Reihe öffentlich zugänglicher Werke und wir möch
 
 Natürlich müssen wir uns in erster Linie bei Joanne K. Rowling  bedanken, die mit ihren Harry Potter Büchern den Grundstein für dieses Regelwerk gelegt hat.
 
-Des Weiteren möchten wir uns bei Pezio bedanken, die das Pathfinder Rollenspiel Regelwerk erstellt und unter der OGL veröffentlicht haben. Und natürlich auch bei Ulisses Spiele, dem Herausgeber der deutschen Fassung von Pathfinder.
+Ein Großteil dieses Regelwerks basiert auf dem Pathfinder Rollenspiel. Deswegen möchten wir uns bei Pezio bedanken, die das Pathfinder Rollenspiel Regelwerk erstellt und unter der OGL veröffentlicht haben. Und natürlich auch bei Ulisses Spiele, dem Herausgeber der deutschen Fassung von Pathfinder.
+
+http://de.harry-potter.wikia.com/
