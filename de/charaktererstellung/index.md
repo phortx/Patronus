@@ -23,7 +23,7 @@ Hast du dir erst einmal ein allgemeines Konzept überlegt, musst du nur noch den
 ## Der Charakterbogen
 
 * Name
-* Gesinnung
+* [Gesinnung](gesinnung.md)
 * [Rasse](rasse.md)
 * Geschlecht
 * Größe
