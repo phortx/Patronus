@@ -33,6 +33,11 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Runde**: Der Kampf wird in Runden eingeteilt. Während einer Runde haben alle Kreaturen, die am Kampf teilnehmen, die Möglichkeit, in der Reihenfolge ihrer Initiative zu handeln. Eine Runde entspricht ungefähr 6 Sekunden in der Spielwelt.
 
+- **Schwierigkeitsgrad (SG)**: Immer wenn eine Kreatur eine Aktion ausführen will, deren Erfolg nicht garantiert ist, muss sie einen Wurf machen (meist ein Fertigkeitswurf). Das Ergebnis dieses Wurfs muss mindestens so hoch wie der angegebene Schwierigkeitsgrad sein, damit die Handlung erfolgreich ist.
+
+
+- **Spielercharakter (Charakter, SC)**: Dies sind die Figuren, die von den Spielern übernommen werden.
+
 - **Verteidigungswert**: Alle Kreaturen in diesem Spiel haben einen Verteidigungswert. Diese gibt an, wie schwer die Kreatur im Kampf zu treffen ist. Wie immer gilt, je höher, desto besser. In den Verteidigungswert werden verschiedene Boni wie Rüstung, Geschicklichkeit etc. eingerechnet.
 
 - **Zauberrang**:
