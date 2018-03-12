@@ -2,6 +2,7 @@
 
 * [Patronus](/README.md)
 * [Einleitung](/einleitung/index.md)
+  * [Begriffe](/einleitung/begriffe.md)
 * [Charaktererstellung](/charaktererstellung/index.md)
   * [Attribute](/charaktererstellung/attribute.md)
   * [Rasse](/charaktererstellung/rasse.md)
