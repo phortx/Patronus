@@ -27,4 +27,12 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Malus**: Mali sind Zahlenwerte, die von Würfen oder Charakterwerten abgezogen werden. Mali haben generell keine Art und sind meist kumulativ.
 
-- **Zauberrang**
+- **Nichtspielercharakter (NSC)**: Nichtspielercharaktere sind Charaktere, die vom SL kontrolliert werden. NSC haben normalerweise Stufen in unterschiedlichen Klassen.
+
+- **Rettungswurf**: Wenn eine Kreatur einem gefährlichen Zauber oder Effekt ausgesetzt wird, darf sie oft einen Rettungswurf machen, um das Ergebnis dieses Zaubers oder Effekts abzumildern. Rettungswürfe sind passive Würfe - der Charakter muss also keine Aktion ausführen, um einen Rettungswurf machen zu dürfen; sie werden sozusagen automatisch gemacht. Es gibt drei Arten von Rettungswürfen: Zähigkeitswürfe (um Giften, Krankheiten und anderen körperlichen Beeinträchtigungen zu widerstehen), Reflexwürfe (um Effekten zu entgehen, die auf einen ganzen Bereich zielen, wie etwa einem Feuerball) und Willenswürfe (um geistigen Angriffen und Zaubern zu widerstehen).
+
+- **Runde**: Der Kampf wird in Runden eingeteilt. Während einer Runde haben alle Kreaturen, die am Kampf teilnehmen, die Möglichkeit, in der Reihenfolge ihrer Initiative zu handeln. Eine Runde entspricht ungefähr 6 Sekunden in der Spielwelt.
+
+- **Verteidigungswert**: Alle Kreaturen in diesem Spiel haben einen Verteidigungswert. Diese gibt an, wie schwer die Kreatur im Kampf zu treffen ist. Wie immer gilt, je höher, desto besser. In den Verteidigungswert werden verschiedene Boni wie Rüstung, Geschicklichkeit etc. eingerechnet.
+
+- **Zauberrang**:
