@@ -1,6 +1,7 @@
 # Summary
 
-* [Einleitung](/README.md)
+* [Patronus](/README.md)
+* [Einleitung](/einleitung/index.md)
 * [Charaktererstellung](/charaktererstellung/index.md)
   * [Attribute](/charaktererstellung/attribute.md)
   * [Rasse](/charaktererstellung/rasse.md)
@@ -10,6 +11,7 @@
   * [Zauberstab](/charaktererstellung/zauberstab.md)
   * [Patronus](/charaktererstellung/patronus.md)
   * [Rettungswürfe](/charaktererstellung/rettungswürfe.md)
+  * [Fertigkeiten](/charaktererstellung/fertigkeiten.md)
 * [Zauber](zauber/index.md)
   * [Zauberränge](zauber/zauberrange.md)
 
