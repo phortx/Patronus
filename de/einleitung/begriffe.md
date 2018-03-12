@@ -4,7 +4,7 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Aktion**: Eine Aktion ist eine bestimmte Zeiteinheit in einer Kampfrunde. Du musst Aktionen ausführen, um deine Fähigkeiten einzusetzen, Zauber zu wirken oder anzugreifen. Es gibt verschiedene Arten von Aktionen: Standard-Aktionen, Bewegungsaktionen, freie Aktionen und volle Aktionen (siehe mehr dazu in Kapitel Kampf).
 
-- **Attributswert**: Jede Kreatur hat sechs Attributswerte: Stärke, Geschicklichkeit, Vitalität, Intelligenz und Magie. Diese Werte repräsentieren die grundlegenden Eigenschaften der Kreatur. Je höher ein Wert, desto mehr Potential und Begabung besitzt dein Charakter in einem bestimmten Bereich.
+- **Attributswert**: Jede Kreatur hat sechs Attributswerte: Stärke, Geschicklichkeit, Vitalität, Intelligenz und Ingenium. Diese Werte repräsentieren die grundlegenden Eigenschaften der Kreatur. Je höher ein Wert, desto mehr Potential und Begabung besitzt dein Charakter in einem bestimmten Bereich.
 
 
 - **Bonus**: Boni sind Zahlenwerte, die auf Würfe und Charakterwerte addiert werden. Die meisten Boni haben eine bestimmte Art und generell kann man sagen, dass Boni ein und derselben Art nicht kumulativ sind (dürfen also nicht addiert werden). Es wird normalerweise nur der höhere Bonus benutzt.

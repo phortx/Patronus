@@ -1,17 +1,17 @@
 # Blutstatus
 
 ## Reinblütig
-  * `+2` Magie
+  * `+2` Ingenium
   * `-1` Vitalität
 
 
 ## Halbblütig
-  * `+1` Magie
+  * `+1` Ingenium
 
 
 ## Muggelgeboren
   * `+1` Wahrnehmen
-  * `-1` Magie
+  * `-1` Ingenium
   * `+1` Stärke
   * `+1` Vitalität
   * `-1` Fliegen

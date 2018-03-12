@@ -19,7 +19,7 @@
 
 
 ## Elf
-  * `+1` Magie
+  * `+1` Ingenium
   * Benötigt keinen Zauberstab
 
 

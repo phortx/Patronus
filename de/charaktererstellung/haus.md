@@ -27,7 +27,7 @@
   - `+1` Mit Tieren umgehen
   - `+1` Fliegen
   - `-1` Redekunst
-  - `-1` Magie
+  - `-1` Ingenium
 
 
 
