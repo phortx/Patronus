@@ -3,6 +3,6 @@
 
 ## Reflexe
 
-## Willenskraft
+## Widerstand
 
 ## Zähigkeit

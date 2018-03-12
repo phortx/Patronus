@@ -6,7 +6,7 @@
 
 ## Halbriese
   * `-1` Reflexe
-  * `+1` Zähigkeit
+  * `+1` Widerstand
   * `+1` Stärke
 
 
