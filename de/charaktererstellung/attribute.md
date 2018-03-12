@@ -22,3 +22,21 @@ Jeder Charakter hat fünf Attributswerte, welche seine grundlegendsten Eigenscha
 ## Magie
 
 (Begabung im Zaubern & Brauen, 0 = Kann keine Zauber wirken)
+
+
+## Attributswerte ermitteln
+
+Jeder Charakter erhält zu Beginn des Spiels 20 Steigerungspunkte. Diese fungieren als Währung und dienen dem "Erwerb" von Attributspunkten. Du musst nicht alle Steigerungspunkte investieren, jedoch verfallen diese nach der Erstellung des Charakters. Folgende Tabelle beschreibt welcher Attributswert wie viele Steigerungspunkte kostet:
+
+| Wert | Steigerungspunkte |
+| ---- | ----------------- |
+| 1    | 1
+| 2    | 1
+| 3    | 2
+| 4    | 2
+| 5    | 3
+| 6    | 4
+| 7    | 5
+| 8    | 6
+| 9    | 7
+| 10   | 8
