@@ -35,8 +35,11 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Schwierigkeitsgrad (SG)**: Immer wenn eine Kreatur eine Aktion ausführen will, deren Erfolg nicht garantiert ist, muss sie einen Wurf machen (meist ein Fertigkeitswurf). Das Ergebnis dieses Wurfs muss mindestens so hoch wie der angegebene Schwierigkeitsgrad sein, damit die Handlung erfolgreich ist.
 
-
 - **Spielercharakter (Charakter, SC)**: Dies sind die Figuren, die von den Spielern übernommen werden.
+
+- **Spielleiter (SL)**: Der Spielleiter ist derjenige, der alle Elemente der Geschichte und der Welt kontrolliert, welche die Spieler erkunden. Der Spielleiter sollte stets fair bleiben und dafür sorgen, dass das Spielen Spaß macht.
+
+- **Stufe**: Die Stufe eines Charakters gibt an, wie mächtig er ist.
 
 - **Verteidigungswert**: Alle Kreaturen in diesem Spiel haben einen Verteidigungswert. Diese gibt an, wie schwer die Kreatur im Kampf zu treffen ist. Wie immer gilt, je höher, desto besser. In den Verteidigungswert werden verschiedene Boni wie Rüstung, Geschicklichkeit etc. eingerechnet.
 
