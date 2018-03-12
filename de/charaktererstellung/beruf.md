@@ -1,3 +1,9 @@
+# Beruf
+
+* Mache Zauber sind nur für einen bestimmten Beruf
+* Manche Berufe haben Spezialisierungen
+
+
 ## Auror
 (= Kampfmagier)
 

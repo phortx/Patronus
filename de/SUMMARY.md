@@ -13,8 +13,8 @@
   * [Patronus](/charaktererstellung/patronus.md)
   * [Rettungswürfe](/charaktererstellung/rettungswürfe.md)
   * [Fertigkeiten](/charaktererstellung/fertigkeiten.md)
-* [Zauber](zauber/index.md)
-  * [Zauberränge](zauber/zauberränge.md)
 * [Spielen](spielen/index.md)
   * [Stufenaufstieg](spielen/stufenaufstieg.md)
+* [Zauber](zauber/index.md)
+  * [Zauberränge](zauber/zauberränge.md)
 
