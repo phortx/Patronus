@@ -15,4 +15,6 @@
   * [Fertigkeiten](/charaktererstellung/fertigkeiten.md)
 * [Zauber](zauber/index.md)
   * [Zauberränge](zauber/zauberrange.md)
+* [Spielen](spielen/index.md)
+  * [Stufenaufstieg](spielen/stufenaufstieg.md)
 
