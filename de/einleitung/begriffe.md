@@ -39,7 +39,11 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Spielleiter (SL)**: Der Spielleiter ist derjenige, der alle Elemente der Geschichte und der Welt kontrolliert, welche die Spieler erkunden. Der Spielleiter sollte stets fair bleiben und dafür sorgen, dass das Spielen Spaß macht.
 
-- **Stufe**: Die Stufe eines Charakters gibt an, wie mächtig er ist.
+- **Stufe**: Die Stufe eines Charakters gibt an, wie mächtig und erfahren er ist.
+
+- **Talent**: Ein Talent ist ein Geschick oder eine Fähigkeit, das von einer Kreatur gemeistert wurde. Talente ermöglichen es oft, bestimmte Regeln oder Einschränkungen zu umgehen. Normalerweise erhält eine Kreatur ihre Talente abhängig von ihrer Stufe, es gibt aber auch Klassen und andere Fähigkeiten, die zusätzliche Talente verleihen.
+
+- **Trefferpunkte (TP)**: Trefferpunkte geben in abstrahierter Form an, wie widerstandsfähig und gesund eine Kreatur gerade ist. Wunden ziehen Trefferpunkte ab, während Heilung (sowohl magische als auch natürliche) Trefferpunkte wiederherstellt. Manche Fähigkeiten und Zauber verleihen temporäre Trefferpunkte, welche nach einiger Zeit wieder verschwinden. Wenn die Trefferpunkte einer Kreatur unter 0 sinken, wird sie bewusstlos. Wenn die Trefferpunkte einer Kreatur auf einen negativen Wert sinken, welcher dem Vitalitätswert entspricht, stirbt die Kreatur. Mit jedem Stufenaufstieg erhöhen sich die maximalen Trefferpunkte einer Kreatur
 
 - **Verteidigungswert**: Alle Kreaturen in diesem Spiel haben einen Verteidigungswert. Diese gibt an, wie schwer die Kreatur im Kampf zu treffen ist. Wie immer gilt, je höher, desto besser. In den Verteidigungswert werden verschiedene Boni wie Rüstung, Geschicklichkeit etc. eingerechnet.
 
