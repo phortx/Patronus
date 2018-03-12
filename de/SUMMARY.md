@@ -14,7 +14,7 @@
   * [Rettungswürfe](/charaktererstellung/rettungswürfe.md)
   * [Fertigkeiten](/charaktererstellung/fertigkeiten.md)
 * [Zauber](zauber/index.md)
-  * [Zauberränge](zauber/zauberrange.md)
+  * [Zauberränge](zauber/zauberränge.md)
 * [Spielen](spielen/index.md)
   * [Stufenaufstieg](spielen/stufenaufstieg.md)
 
