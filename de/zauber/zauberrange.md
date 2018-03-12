@@ -1,6 +1,6 @@
 # Zauberränge
 
-* Man muss immer eine 4 oder höher würfeln damit der Zauber gelingt
+* Damit ein Zaubergrad gelingt muss ein Wurf mit einem Würfel aus der Tabelle unten durchgeführt werden. Nur wenn der Würfelwert über dem Zauberrang liegt, gelingt der Wurf.
   * Mit jedem Zauberrang erhöht sich der Würfel
       * Rang 1: W4
       * Rang 2: W6

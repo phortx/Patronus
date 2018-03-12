@@ -47,4 +47,10 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Verteidigungswert**: Alle Kreaturen in diesem Spiel haben einen Verteidigungswert. Diese gibt an, wie schwer die Kreatur im Kampf zu treffen ist. Wie immer gilt, je höher, desto besser. In den Verteidigungswert werden verschiedene Boni wie Rüstung, Geschicklichkeit etc. eingerechnet.
 
-- **Zauberrang**:
+- **Wurf**: Dabei ist ein Wurf mit einem `W20` gemeint, der durch einen anderen Wert beeinflusst wird. Die üblichsten Würfe sind Angriffswürfe, Fertigkeitsswürfe und Rettungswürfe.
+
+- **Zauber**: Ein Zauber ist ein magischer Effekt, der von einer Kreatur hervorgerufen wurde, die zaubern kann. Zauber können die unterschiedlichsten Wirkungen haben, können Feinden schaden, aber auch Tote wieder zum Leben erwecken. Bei Zaubern wird immer angegeben, was sie zum Ziel haben können, welchen Effekt sie haben und wie man ihnen widerstehen kann.
+
+- **Zauberrang**: Der Zauberrang gibt an, wie gut eine Kreatur diesen Zauber beherrscht. Je erfahrener eine Kreatur in einem Zauber ist, desto leichter fällt es ihr diesen zu wirken.
+
+- **Zug**: In einer Kampfrunde kann jede Kreatur einen Zug machen, das heißt, sie kann Aktionen ausführen. Innerhalb seines Zuges kann ein Charakter eine Standardaktion, eine Bewegungsaktion, eine schnelle Aktion und eine Anzahl freier Aktionen ausführen. Alternativ kann er aber auch eine volle Aktion, eine schnelle Aktion und eine Anzahl freier Aktionen ausführen.
