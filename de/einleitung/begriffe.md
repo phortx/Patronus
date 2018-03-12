@@ -25,4 +25,6 @@ Bei Patronus werden einige generelle Begriffe, Abkürzungen und Definitionen ver
 
 - **Kumulativ**: Kumulativ bedeutet, dass man bestimmte Boni oder Mali addiert, die sich auf einen bestimmten Wurf oder Wert beziehen. Normalerweise sind Boni derselben Art nicht kumulativ. Es zählt nur der höchste Bonus. Die meisten Mali hingegen sind kumulativ, das heißt, sie werden addiert. Jedoch sind Mali und Boni miteinander kumulativ. Das heißt, dass ein Malus einen Bonus teilweise oder ganz aufheben könnte (es kann sogar sein, dass der Malus höher als der Bonus ist, was dann insgesamt zu einem Malus auf den Wurf oder Wert führt).
 
+- **Malus**: Mali sind Zahlenwerte, die von Würfen oder Charakterwerten abgezogen werden. Mali haben generell keine Art und sind meist kumulativ.
+
 - **Zauberrang**
