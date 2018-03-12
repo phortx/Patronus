@@ -9,6 +9,7 @@
   * [Haus](/charaktererstellung/haus.md)
   * [Zauberstab](/charaktererstellung/zauberstab.md)
   * [Patronus](/charaktererstellung/patronus.md)
+  * [Rettungswürfe](/charaktererstellung/rettungswürfe.md)
 * [Zauber](zauber/index.md)
   * [Zauberränge](zauber/zauberrange.md)
 

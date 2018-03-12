@@ -12,3 +12,4 @@
 * [Beruf](beruf.md)
 * Stufe
 * [Patronus](patronus.md)
+* [Rettungswürfe](rettungswürfe.md)

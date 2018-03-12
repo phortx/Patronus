@@ -18,4 +18,5 @@
 
 
 ## Magie
-(Begabung im Zaubern, Brauen)
+
+(Begabung im Zaubern & Brauen, 0 = Kann keine Zauber wirken)
