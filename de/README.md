@@ -21,5 +21,5 @@ Das Patronus-Projekt befindet sich aktuell in einem sehr frühen Stadium und ist
 
 ## Mitwirken
 
-Die Quellen des Regelwerks sind als Markdown Dateien auf [GitHub](https://github.com/phortx/Patronus) zu finden und werden via gitbook gehostet. Für Fragen, Anregungen und Vorschläge, dürft ihr euch gerne an [bk@itws.de](mailto:bk@itws.de) wenden.
+Patronus ist unter der [Open Game License](https://de.wikipedia.org/wiki/Open_Game_License) lizensiert. Die Quellen des Regelwerks sind als Markdown Dateien auf [GitHub](https://github.com/phortx/Patronus) zu finden und werden via gitbook gehostet. Für Fragen, Anregungen und Vorschläge, dürft ihr euch gerne an [bk@itws.de](mailto:bk@itws.de) wenden.
 

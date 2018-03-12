@@ -1,0 +1,3 @@
+# Einleitung
+
+In dem Harry Potter inspirierten Rollenspiel "Patronus" schlüpfst du in die Rolle eines mächtigen Magiers, eines flinken Kobolds oder einer bazaubernden Veela. Zusammen mit deinen Mitstreitern erlebst du spannende Abenteuer in einer fantastischen Welt, in der Magie zum Alltag gehört. Heikle Situationen, epische Kämpfen und eigenwillige Kreaturen fordern von dir Geschick, Diplomatie und Kreativität.
