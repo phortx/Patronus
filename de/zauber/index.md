@@ -54,13 +54,16 @@ Mit jedem Stufenaufstieg darf ein Charakter den Rang eines ihm bekannten Zaubers
 
 Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn bei der Probe die höchstmögliche Augen-Zahl gewürfelt wurde (ohne Boni) UND der Zauber gelingt.
 
+Außerdem kommt der Ingenium-Wert des Charakters zum Tragen. Pro 4 Ingenium darf der Charakter `+1` auf die Probe addieren. Hat ein Charakter beispielsweise 7 Ingenium, darf er `+1` addieren, ab einem Wert von 8 Ingenium, `+2` usw.
 
 
 ### Beispiel
 
-Ein Charakter möchte einen Schockzauber wirken, der einen Schwierigkeitsgrad von 3 hat. Da er den Schockzauber noch nicht oft verwendet hat, hat er hierbei bereits nur den Zauber-Rang `I`.
+Ein Charakter möchte einen Schockzauber wirken, der einen Schwierigkeitsgrad von 3 hat. Angenommen er hat diesen Zauber noch nie gewirkt und damit Rang `I` auf diesen Zauber.
 
-Für die Probe darf der Charakter also nur einen `W6` verwenden und muss auf mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken.
+Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken. Angenommen er hat einen Ingenium-Wert von 7 darf er außerdem Danach darf er diesen Zauber mit Rang `I` in sein Repertoire aufnehmen.
+
+
 
 
 

@@ -46,12 +46,12 @@ Du wendest den Geschicklichkeits-Modifikator in folgenden Fällen an:
 
 ## Ingenium
 
-In einer Magie-basierten Welt ist dieses Attribut vermutlich das wichtigste überhaupt. Der Ingeniumwert deines Charakters bestimmt sein Geschick im Umgang mit Magie, sein Verständnis über die Magie und ihre Anwendung sowie dein natürliches Talent Magie zu wirken. Ein Charakter mit einem Ingeniumwert von 0 ist nicht in der Lage Magie zu wirken (Squib/Muggle).
+In einer Magie-basierten Welt ist dieses Attribut vermutlich das wichtigste überhaupt. Der Ingeniumwert deines Charakters bestimmt sein Geschick im Umgang mit Magie, sein Verständnis über die Magie und ihre Anwendung sowie sein natürliches Talent Magie zu wirken. Ein Charakter mit einem Ingeniumwert von 0 ist nicht in der Lage Magie zu wirken (Squib/Muggle).
 Du wendest den Ingenium-Modifikator in folgenden Fällen an:
 
 * Wirken eines Zaubers
 * Schadensberechnung bei Flüchen
-* Erlernen eines neuen Zaubers oder Zauberrangs
+* Erlernen eines neuen Zaubers
 * Fertigkeitswürfe auf Brauen 
 * Widerstandswürfe (um Zaubern zu widerstehen)
 
@@ -83,3 +83,9 @@ Als Beispiel erstellen wir einen durchschnittlich starken und geschickten Charak
 > Ingenium: 3
 
 Laut Tabelle kostet diese Verteilung uns also `1+2+6+4+2 = 15` Punkte.
+
+
+
+## Attribute im Spiel
+
+Mit jeder 3. Stufe deines Charakters erhältst du 2 Attributspunkte, die du frei verteilen darfst.
