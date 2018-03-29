@@ -10,6 +10,18 @@ Formel: Lumos
 
 TODO
 
+#### Aufrufezauber
+
+Formel: Accio
+
+TODO
+
+#### Verwandlungszauber (klein)
+
+Formel: keine
+
+TODO
+
 ## Hexereien
 
 ## Flüche

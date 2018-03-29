@@ -4,7 +4,27 @@ Zauber dieses Schwierigkeitsgrads lernen Schüler in den Zauberschulen im letzte
 
 ## Verzauberungen
 
+### Verschwindezauber
+
+Formel: Evanesco
+
+TODO
+
+
+#### Verwandlungszauber (mittel)
+
+Formel: keine
+
+TODO
+
+
+
 ## Hexereien
 
 ## Flüche
 
+#### Schockzauber
+
+Formel: Stupor
+
+TODO

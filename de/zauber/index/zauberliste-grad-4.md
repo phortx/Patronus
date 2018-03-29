@@ -10,6 +10,14 @@ Formel: Expecto Patronum
 
 TODO
 
+#### Verwandlungszauber (groß)
+
+Formel: keine
+
+TODO
+
+
+
 ## Hexereien
 
 ## Flüche
