@@ -7,7 +7,14 @@ Bei Zaubern wird unterschieden zwischen:
 - **Fluch**: Eine üble schwarz-magische Anwendung, die einem Objekt Schaden zufügt. Die drei unverzeihlichen Flüche, Incarcerus, usw.
 
 
+## Wie Magie funktioniert
+
+TODO
+
+
 ## Zauber-Repotoire
+
+TODO
 
 
 
@@ -65,10 +72,12 @@ Ein Charakter möchte einen Schockzauber wirken, der einen Schwierigkeitsgrad vo
 Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken. Angenommen er hat einen Ingenium-Wert von 7 darf er außerdem `+1` auf den Würfelwurf addieren und benötigt so nur noch einen Wert von 3 statt 4. Danach darf er diesen Zauber mit Rang `I` in sein Repertoire aufnehmen.
 
 
+### Maxima
+
+Einige Zauber existieren zusätzlich in einer Maxima (lat: gar sehr) Variante.
 
 
-## Zauber
-
+## TODO
 - Abstrakter Patronus: 4
 - Gestaltlicher Patronus: 5
 - Patronus steuern: 6

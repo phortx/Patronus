@@ -16,4 +16,5 @@
 * [Spielen](spielen/index.md)
   * [Stufenaufstieg](spielen/stufenaufstieg.md)
 * [Zauber](zauber/index.md)
+  * [Zauberliste: Grad 1](zauber/index/zauberliste-grad-1.md)
 
