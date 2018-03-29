@@ -24,3 +24,7 @@ Formel: Imperio
 
 Formel: Crucio
 
+
+## Verwandlung
+
+#### Animagus

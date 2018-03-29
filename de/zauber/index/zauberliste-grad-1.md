@@ -23,6 +23,13 @@ Formel: Locomotor
 TODO
 
 
+#### Vier-Punkte-Zauber
+
+Formel: Weise mir den Weg
+
+TODO
+
+
 ## Hexereien
 
 ## Flüche
