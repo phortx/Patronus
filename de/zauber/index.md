@@ -46,11 +46,14 @@ Prinzipiell gilt: Das Ergebnis des Würfelwurfs muss über dem Zauber-Grad (also
 
 Wer aufgepasst hat wird merken, dass es unmöglich ist einen Zauber mit dem Schwierigkeitsgrad von 4, 5 oder 6 ungeübt erfolgreich zu wirken. Dieser umstand ist gewollt, da so verhindert wird, dass ein Erstklässer einen Imperius Fluch wirken kann.
 
-Hat ein Charakter einen Zauber noch nie gewirkt, gilt dieser als "ungelernt" und er hat keinen Rang auf diesen Zauber. Schafft der Charakter es zum ersten mal einen Zauber auszuführen, darf er diesen Zauber in sein Repertoire mit Rang `I` aufnehmen.
+TODO: Wie und wann schaffe ich es dann einen solchen zauber zu wirken?
+
+Hat ein Charakter einen Zauber noch nie gewirkt, gilt dieser als "ungelernt" und er hat Rang `I` auf diesen Zauber. Schafft der Charakter es zum ersten mal einen Zauber auszuführen, darf er diesen Zauber in sein Repertoire mit Rang `I` aufnehmen.
 
 Mit jedem Stufenaufstieg darf ein Charakter den Rang eines ihm bekannten Zaubers um eine Stufe erhöhen.
 
-Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn bei der Probe die höchstmögliche Augen-Zahl gewürfelt wurde UND der Zauber gelingt.
+Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn bei der Probe die höchstmögliche Augen-Zahl gewürfelt wurde (ohne Boni) UND der Zauber gelingt.
+
 
 
 ### Beispiel
