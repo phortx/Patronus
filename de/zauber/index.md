@@ -35,7 +35,7 @@ Damit ein Zauber gelingt, muss eine Probe mit einem Würfel aus der Tabelle unte
 
 Wenn ein Charakter einen Zauber wirken möchte, muss er eine Probe würfeln um festzustellen ob der Zauber gelingt. Dieser Würfelwurf wird mit verschiedenen Boni und Mali verrechnet.
 
-Prinzipiell gilt: Das Ergebnis des Würfelwurfs muss größer/gleich dem Zauber-Grad (also dem Schwierigkeitsgrad des Zaubers) sein. Der Zauber-Rang gibt an mit welche Würfel die Probe gewürfelt werden darf.
+Prinzipiell gilt: Das Ergebnis des Würfelwurfs muss über dem Zauber-Grad (also dem Schwierigkeitsgrad des Zaubers) liegen. Der Zauber-Rang gibt an mit welche Würfel die Probe gewürfelt werden darf.
 
-Wer aufgepasst hat wird merken, dass
+Wer aufgepasst hat wird merken, dass es unmöglich ist einen Zauber mit dem Schwierigkeitsgrad von 4 oder 5 ungeübt erfolgreich zu wirken. Dieser umstand ist gewollt, da so verhindert wird, dass ein Erstklässer einen Imperius Fluch wirken kann.
 
