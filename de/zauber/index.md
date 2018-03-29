@@ -46,24 +46,23 @@ Prinzipiell gilt: Das Ergebnis des Würfelwurfs muss über dem Zauber-Grad (also
 
 Wer aufgepasst hat wird merken, dass es unmöglich ist einen Zauber mit dem Schwierigkeitsgrad von 4, 5 oder 6 ungeübt erfolgreich zu wirken. Dieser umstand ist gewollt, da so verhindert wird, dass ein Erstklässer einen Imperius Fluch wirken kann.
 
-TODO: Wie und wann schaffe ich es dann einen solchen zauber zu wirken?
-
 Hat ein Charakter einen Zauber noch nie gewirkt, gilt dieser als "ungelernt" und er hat Rang `I` auf diesen Zauber. Schafft der Charakter es zum ersten mal einen Zauber auszuführen, darf er diesen Zauber in sein Repertoire mit Rang `I` aufnehmen.
 
 Mit jedem Stufenaufstieg darf ein Charakter den Rang eines ihm bekannten Zaubers um eine Stufe erhöhen.
 
 Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn bei der Probe die höchstmögliche Augen-Zahl gewürfelt wurde (ohne Boni) UND der Zauber gelingt.
 
-Außerdem kommt der Ingenium-Wert des Charakters zum Tragen. Pro 4 Ingenium darf der Charakter `+1` auf die Probe addieren. Hat ein Charakter beispielsweise 7 Ingenium, darf er `+1` addieren, ab einem Wert von 8 Ingenium, `+2` usw.
+Außerdem kommt der Ingenium-Wert des Charakters zum Tragen. Pro 4 Ingenium darf der Charakter `+1` auf die Probe addieren. Hat ein Charakter beispielsweise 7 Ingenium, darf er `+1` addieren, ab einem Wert von 8 Ingenium, `+2` usw. Um einen Grad 6 Zauber überhaupt wirken zu können, benötigt dein Charakter mind. einen Ingenium-Wert von 12.
+
+Die Formel lautet also: `W(ZR) + I/4 > ZG`.
+
 
 
 ### Beispiel
 
 Ein Charakter möchte einen Schockzauber wirken, der einen Schwierigkeitsgrad von 3 hat. Angenommen er hat diesen Zauber noch nie gewirkt und damit Rang `I` auf diesen Zauber.
 
-Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken. Angenommen er hat einen Ingenium-Wert von 7 darf er außerdem Danach darf er diesen Zauber mit Rang `I` in sein Repertoire aufnehmen.
-
-
+Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken. Angenommen er hat einen Ingenium-Wert von 7 darf er außerdem `+1` auf den Würfelwurf addieren und benötigt so nur noch einen Wert von 3 statt 4. Danach darf er diesen Zauber mit Rang `I` in sein Repertoire aufnehmen.
 
 
 
