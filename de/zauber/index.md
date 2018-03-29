@@ -15,6 +15,9 @@ Die Schwierigkeit eines Zaubers wird auch Zauber-Grad genannt und sollte nicht m
 
 Schwierigkeiten werden auf einer Skala von 1 bis 5 ausgedrückt. Ein Zauber der Schwierigkeit 1 kann quasi von jeder magisch-begabten Person einfach gelernt werden. Ein Zauber der Stufe 5 ist deutlich schwieriger auszuüben.
 
+Den Zauber-Grad eines Zaubers findet man in der Zauberbeschreibung und in den Zauber-Tabellen.
+
+
 ## Zauber-Rang
 
 Der Rang eines Zauber ist individuell für deinen Charakter und gibt an wie geübt und erfahren dein Charakter im Umgang mit einem bestimmten Zauber ist. Je höher der Rang, desto einfacher wird es dem Charakter fallen diesen Zauber zu wirken.
