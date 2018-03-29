@@ -7,18 +7,23 @@ Zauber des Zauber-Grads 1 haben keine nennenswerte Schwierigkeit und können von
 
 #### Aufmunterungszauber
 
+Formel: keine
+Reichweite: 30m
+
 TODO
 
 
 #### Lumos
 
 Formel: Lumos
+Reichweite: selbst
 
 TODO
 
 #### Bewegungszauber
 
 Formel: Locomotor
+Reichweite: 30m
 
 TODO
 
@@ -26,8 +31,15 @@ TODO
 #### Vier-Punkte-Zauber
 
 Formel: Weise mir den Weg
+Reichweite: selbst
 
 TODO
+
+
+#### Flammenzauber
+
+Formel: Lacarnum Inflamari
+Reichweite: 20cm
 
 
 ## Hexereien

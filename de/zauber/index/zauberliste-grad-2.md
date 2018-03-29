@@ -30,6 +30,11 @@ Formel: Protego
 TODO
 
 
+#### Entwaffnungszauber
+
+Formel: Expelliarmus
+
+
 
 ## Hexereien
 
