@@ -19,7 +19,7 @@
   * [Zauberliste: Grad 1](zauber/index/zauberliste-grad-1.md)
   * [Zauberliste: Grad 2](zauber/index/zauberliste-grad-2.md)
   * [Zauberliste: Grad 3](zauber/index/zauberliste-grad-3.md)
-  * Zauberliste: Grad 4
-  * Zauberliste: Grad 5
-  * Zauberliste: Grad 6
+  * [Zauberliste: Grad 4](zauber/index/zauberliste-grad-4.md)
+  * [Zauberliste: Grad 5](zauber/index/zauberliste-grad-5.md)
+  * [Zauberliste: Grad 6](zauber/index/zauberliste-grad-6.md)
 

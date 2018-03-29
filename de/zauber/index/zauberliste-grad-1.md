@@ -4,12 +4,14 @@ Zauber des Zauber-Grads 1 haben keine nennenswerte Schwierigkeit und können von
 
 ## Verzauberungen
 
-### Aufmunterungszauber
+#### Aufmunterungszauber
 
 TODO
 
 
-### Lumos
+#### Lumos
+
+Formel: Lumos
 
 TODO
 
