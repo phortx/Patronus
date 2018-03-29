@@ -16,5 +16,4 @@
 * [Spielen](spielen/index.md)
   * [Stufenaufstieg](spielen/stufenaufstieg.md)
 * [Zauber](zauber/index.md)
-  * [Zauberränge](zauber/zauberränge.md)
 

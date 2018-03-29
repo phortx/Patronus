@@ -7,13 +7,17 @@ Bei Zaubern wird unterschieden zwischen:
 - **Fluch**: Eine üble schwarz-magische Anwendung, die einem Objekt Schaden zufügt. Die drei unverzeihlichen Flüche, Incarcerus, usw.
 
 
+## Zauber-Repotoire
+
+
+
 ## Zauber-Schwierigkeit
 
 Jeder Zauber hat einen allgemein gültigen Schwierigkeitsgrad, denn bestimmte mächtige Zauber sind fortgeschrittene Magie und können nicht von einem Erstklässler gewirkt werden, während andere Zauber zum kleinen Einmaleins gehören quasi das erste ist, was eine magisch-begabte Person lernt.
 
 Die Schwierigkeit eines Zaubers wird auch Zauber-Grad genannt und sollte nicht mit dem Zauber-Rang, der die Erfahrung im Umgang mit einem Zauber wiedergibt, verwechselt werden.
 
-Schwierigkeiten werden auf einer Skala von 1 bis 5 ausgedrückt. Ein Zauber der Schwierigkeit 1 kann quasi von jeder magisch-begabten Person einfach gelernt werden. Ein Zauber der Stufe 5 ist deutlich schwieriger auszuüben.
+Schwierigkeiten werden auf einer Skala von 1 bis 6 ausgedrückt. Ein Zauber der Schwierigkeit 1 kann quasi von jeder magisch-begabten Person einfach gelernt werden. Ein Zauber der Stufe 6 ist deutlich schwieriger auszuüben.
 
 Den Zauber-Grad eines Zaubers findet man in der Zauberbeschreibung und in den Zauber-Tabellen.
 
@@ -40,5 +44,26 @@ Wenn ein Charakter einen Zauber wirken möchte, muss er eine Probe würfeln um f
 
 Prinzipiell gilt: Das Ergebnis des Würfelwurfs muss über dem Zauber-Grad (also dem Schwierigkeitsgrad des Zaubers) liegen. Der Zauber-Rang gibt an mit welche Würfel die Probe gewürfelt werden darf.
 
-Wer aufgepasst hat wird merken, dass es unmöglich ist einen Zauber mit dem Schwierigkeitsgrad von 4 oder 5 ungeübt erfolgreich zu wirken. Dieser umstand ist gewollt, da so verhindert wird, dass ein Erstklässer einen Imperius Fluch wirken kann.
+Wer aufgepasst hat wird merken, dass es unmöglich ist einen Zauber mit dem Schwierigkeitsgrad von 4, 5 oder 6 ungeübt erfolgreich zu wirken. Dieser umstand ist gewollt, da so verhindert wird, dass ein Erstklässer einen Imperius Fluch wirken kann.
 
+Hat ein Charakter einen Zauber noch nie gewirkt, gilt dieser als "ungelernt" und er hat keinen Rang auf diesen Zauber. Schafft der Charakter es zum ersten mal einen Zauber auszuführen, darf er diesen Zauber in sein Repertoire mit Rang `I` aufnehmen.
+
+Mit jedem Stufenaufstieg darf ein Charakter den Rang eines ihm bekannten Zaubers um eine Stufe erhöhen.
+
+Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn bei der Probe die höchstmögliche Augen-Zahl gewürfelt wurde UND der Zauber gelingt.
+
+
+### Beispiel
+
+Ein Charakter möchte einen Schockzauber wirken, der einen Schwierigkeitsgrad von 3 hat. Da er den Schockzauber noch nicht oft verwendet hat, hat er hierbei bereits nur den Zauber-Rang `I`.
+
+Für die Probe darf der Charakter also nur einen `W6` verwenden und muss auf mindestens auf den Wert 4 kommen um den Zauber erfolgreich zu wirken.
+
+
+
+
+## Zauber
+
+- Abstrakter Patronus: 4
+- Gestaltlicher Patronus: 5
+- Patronus steuern: 6
