@@ -12,9 +12,9 @@ Bei Zaubern wird unterschieden zwischen:
 TODO
 
 
-## Zauber-Repotoire
+## Zauber-Repetoire
 
-TODO
+Jeder Charakter, der in der Lage ist Magie zu wirken hat ein Zauber-Repertoire, in dem alle Zauber stehen, die er kann zusammen mit ihrem jeweiligen Zauber-Rang.
 
 
 
@@ -61,7 +61,13 @@ Außerdem erhöht sich der Rang eines bekannten Zaubers immer genau dann wenn be
 
 Außerdem kommt der Ingenium-Wert des Charakters zum Tragen. Pro 4 Ingenium darf der Charakter `+1` auf die Probe addieren. Hat ein Charakter beispielsweise 7 Ingenium, darf er `+1` addieren, ab einem Wert von 8 Ingenium, `+2` usw. Um einen Grad 6 Zauber überhaupt wirken zu können, benötigt dein Charakter mind. einen Ingenium-Wert von 12.
 
-Die Formel lautet also: `W(ZR) + I/4 > ZG`.
+Die Formel lautet also: `W(ZR) + I/4 - M > ZG`.
+
+- `ZR` ist der Zauber-Rang des Zaubers für den Charakter
+- `W(ZR)` ist der zum Zauber-Rang gehörige Würfel
+- `I` ist der Ingenium Wert des Charakters
+- `M` Ist der Malus, der z.B. durch stummes Zaubern abgezogen werden muss
+- `ZG` ist der Zauber-Grad des Zaubers
 
 
 
@@ -74,7 +80,7 @@ Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindest
 
 ### Maxima
 
-Einige Zauber existieren zusätzlich in einer Maxima (lat: gar sehr) Variante.
+Einige Zauber existieren zusätzlich in einer Maxima (lat. "gar sehr") Variante. Diese sind ein oder zwei Zauber-Grade höher und eine stärkere Variante des originals. 
 
 
 ## TODO
