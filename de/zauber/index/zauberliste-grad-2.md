@@ -22,6 +22,15 @@ Formel: keine
 
 TODO
 
+
+#### Schildzauber
+
+Formel: Protego
+
+TODO
+
+
+
 ## Hexereien
 
 ## Flüche
