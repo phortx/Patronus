@@ -4,6 +4,14 @@ Die epischen Zauber dieses höchsten Schwierigkeitsgrads sind die mächtigsten u
 
 ## Verzauberungen
 
+#### Patronus steuern
+
+Formel: Expecto Patronum
+
+TODO
+
+
+
 ## Hexereien
 
 ## Flüche

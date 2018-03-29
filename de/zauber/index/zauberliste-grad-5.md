@@ -4,6 +4,14 @@ Zauber dieses Schwierigkeitsgrads lernen die Schüler der Magie nicht in der Aus
 
 ## Verzauberungen
 
+#### Gestaltlicher Patronus
+
+Formel: Expecto Patronum
+
+TODO
+
+
+
 ## Hexereien
 
 ## Flüche

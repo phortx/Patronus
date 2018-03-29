@@ -4,6 +4,12 @@ Zauber dieses Schwierigkeitsgrads lernen Schüler nur selten als Teil ihrer Ausb
 
 ## Verzauberungen
 
+#### Abstrakter Patronus
+
+Formel: Expecto Patronum
+
+TODO
+
 ## Hexereien
 
 ## Flüche

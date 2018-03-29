@@ -4,6 +4,12 @@ Zauber dieses Schwierigkeitsgrads lernen Schüler in den Zauberschulen im mittle
 
 ## Verzauberungen
 
+#### Lumos Maxima
+
+Formel: Lumos
+
+TODO
+
 ## Hexereien
 
 ## Flüche
