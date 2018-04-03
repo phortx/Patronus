@@ -83,6 +83,19 @@ Für die Probe darf der Charakter also nur einen `W4` verwenden und muss mindest
 Einige Zauber existieren zusätzlich in einer Maxima (lat. "gar sehr") Variante. Diese sind ein oder zwei Zauber-Grade höher und eine stärkere Variante des originals. 
 
 
+## Zauberspruch-Arten
+
+Es wird zwischen verschiedenen Zauberspruchtypen unterschieden: Fluch, Schutz- und Heilzauber, Verhexung, Verwandlung und Zauber.
+
+### Zauber
+
+Alle Arten von gewirkter Magie werden als "Zauber" bzw. "Zauberspruch" bezeichnet, jedoch beschreibt der Begriff "Zauber" auch eine Kategorie von Zaubersprüchen. Gemeint sind dabei alle Arten von Magie die einem Objekt oder einer Kreatur verschiedene Eigenschaften hinzufügt. Zauber werden dadurch von Verwandlungen unterschieden, dass ein Zauber Eigenschaften bei einem Objekt hinzufügt oder ändert; er konzentriert sich auf die Abänderung, was ein Objekt tut im Gegensatz zu dem, was ein Objekt ist.
+
+### Werwandlung
+
+Verwandlung ist ein Zweig der Magie, der auf der Änderung der Gestalt oder des Aussehens eines Objekts basiert, mit Hilfe der Veränderung molekularen Struktur des Objekts. Verwandlung kann bei den meisten (wenn nicht allen) Objekten durchgeführt werden und, wie bei den meisten Formen der Magie, schließt das Verwandlungs-Zaubersprüche ein, beschränkt sich aber nicht darauf.
+
+
 ## TODO
 - Abstrakter Patronus: 4
 - Gestaltlicher Patronus: 5
