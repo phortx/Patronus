@@ -7,6 +7,7 @@ Die epischen Zauber dieses höchsten Schwierigkeitsgrads sind die mächtigsten u
 #### Patronus kontrollieren
 
 Formel: Expecto Patronum
+Reichweite: unendlich
 
 TODO
 
@@ -19,3 +20,7 @@ TODO
 #### Der Tödliche Fluch
 
 Formel: Avada Kedavra
+Reichweite: 15m
+
+TODO
+

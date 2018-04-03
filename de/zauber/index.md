@@ -2,9 +2,12 @@
 
 Bei Zaubern wird unterschieden zwischen:
 
-- **Verzauberung**: Eine magische Anwendung, die die Realität, ein Objekt oder eine Person verändert, bewegt, oder zusätzliche Eigenarten verleiht. Z.B.: Aufrufezauber, Schildzauber, Wachstumszauber usw.
+
+
+- **Heil- und Schutzzauber**: Magische Anwendung, die ein Objekt repariert oder eine Person heilt oder schützt. Z.B. Schildzauber.
+- **Verzauberung**: Eine magische Anwendung, die die Realität, ein Objekt oder eine Person verändert, bewegt, oder zusätzliche Eigenarten verleiht. Z.B.: Aufrufezauber, Wachstumszauber usw.
 - **Hexerei**: Magische Anwendung, die das Objekt oder eine Person verhext oder verwünscht, darin steckt zwar immer etwas von schwarzer Magie, aber eher im Sinne eines boshaften Scherzes. Z.B. Beinklammer-Fluch
-- **Fluch**: Eine üble schwarz-magische Anwendung, die einem Objekt Schaden zufügt. Die drei unverzeihlichen Flüche, Incarcerus, usw.
+- **Fluch**: Eine (oft schwarz-) magische Anwendung, die einem Objekt oder Person Schaden zufügt. Z.B. Die drei unverzeihlichen Flüche, Incarcerus, usw.
 
 
 ## Wie Magie funktioniert

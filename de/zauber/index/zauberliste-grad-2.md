@@ -2,30 +2,36 @@
 
 Zauber dieses Schwierigkeitsgrads lernen Schüler in den Zauberschulen im mittleren Teil ihrer Ausbildung. Diese Zauber basieren auf einfacher Magie.
 
+## Heil- und Schutzzauber
+
+#### Schildzauber
+
+Formel: Protego
+Reichweite: 5m
+
+TODO
+
+
 ## Verzauberungen
 
 #### Lumos Maxima
 
 Formel: Lumos
+Reichweite: selbst
 
 TODO
 
 #### Aufrufezauber
 
 Formel: Accio
+Reichweite: 40m
 
 TODO
 
 #### Verwandlungszauber (klein)
 
 Formel: keine
-
-TODO
-
-
-#### Schildzauber
-
-Formel: Protego
+Reichweite: 10cm
 
 TODO
 
@@ -33,6 +39,7 @@ TODO
 #### Entwaffnungszauber
 
 Formel: Expelliarmus
+Reichweite: 15m
 
 
 
@@ -40,3 +47,7 @@ Formel: Expelliarmus
 
 ## Flüche
 
+#### Feuerzauber
+
+Formel: Incendio
+Reichweite: 40m
